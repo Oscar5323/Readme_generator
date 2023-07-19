@@ -1,7 +1,18 @@
 const inquire= require('inquirer')
 const fs = require('fs')
 
+const generateREADME = ({Title,Description,License,GitHub,Email}) =>
+`#${Title}
 
+##Instructions
+${Description}
+
+##${License}
+
+##${GitHub}
+
+##${Email}
+`;
 
 
 inquire
