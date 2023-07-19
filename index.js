@@ -8,29 +8,29 @@ inquire
     .prompt([
         {
             type:'input',
-            name:'title',
+            name:'Title',
             message:'What is the name of the project',
         },
         {
             type:'input',
-            name:'description',
+            name:'Description',
             message:'What is the project about?',
         },
         {
-            type:'checkbox',
+            type:'list',
             name:'License',
             message:'What license would you be using',
-            choices:['','','',]
+            choices:['None','Apache License 2.0','GNU General Public License v3.0','MIT License','BSD 2-Clause "Simplified" License','BSD 3-Clause "New" or "Revised" License','Boost Software License 1.0','Creative Commons Zero v1.0 Universal','Eclipse Public License 2.0']
         },
         {
             type:'input',
-            name:'',
-            message:'',
+            name:'GitHub',
+            message:'Enter your GitHub Username',
         },
         {
             type:'input',
-            name:'',
-            message:'',
+            name:'email',
+            message:'Enter your Email',
         },
     ])
     .then((answers)=>{
