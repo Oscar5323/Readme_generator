@@ -7,11 +7,14 @@ const generateREADME = ({Title,Description,License,GitHub,Email}) =>
 ##Instructions
 ${Description}
 
-##${License}
+##License
+${License}
 
-##${GitHub}
+##Github user name
+${GitHub}
 
-##${Email}
+##Email
+${Email}
 `;
 
 
