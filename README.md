@@ -1,7 +1,7 @@
 # Readme generator 
 
 ## Instructions
-This challenge was a way to use node to make a easy way to make readme.
+This challenge was a way to use node to make a easy way to make a readme.This is all done in javascript
 
 ## License
 None
