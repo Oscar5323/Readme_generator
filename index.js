@@ -11,7 +11,7 @@ ${Description}
 ${License}
 
 ##Github user name
-${GitHub}
+https://github.com/${GitHub}
 
 ##Email
 ${Email}
