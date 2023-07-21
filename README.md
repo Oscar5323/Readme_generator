@@ -1,13 +1,13 @@
-#Readme Generator
+#soemthiogn
 
 ##Instructions
-easy way to make readme 
+some other thing
 
 ##License
 None
 
 ##Github user name
-https://github.com/oscar5323
+https://github.com/user
 
 ##Email
 undefined
