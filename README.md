@@ -1,4 +1,4 @@
-#soemthiogn
+#Readme generator 
 
 ##Instructions
 This challenge was a way to use node to make a easy way to make readme.
